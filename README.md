@@ -40,4 +40,4 @@ The system was designed using various UML and data flow diagrams to ensure a cle
 
 ## 📂 Repository Structure
 - `/Diagrams`: Contains all high-resolution exported images of the diagrams.
-- `/Documentation`: Detailed SRS (Software Requirements Specification) document.
+- `/Document`: Detailed SRS (Software Requirements Specification) document.
